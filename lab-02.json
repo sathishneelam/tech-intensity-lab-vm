@@ -1,0 +1,29 @@
+[
+    {
+      "Name": "Lab 2 : Microsoft Threat Protection Tech Intensity",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabsAI-Azure/Tech-Intensity-Identity-Access-Management-Threat-Protection/tree/main/Instructions",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Tech-Intensity-Identity-Access-Management-Threat-Protection/main/Instructions/Microsoft%20Threat%20Protection%20Tech%20Intensity/01.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Tech-Intensity-Identity-Access-Management-Threat-Protection/main/Instructions/Microsoft%20Threat%20Protection%20Tech%20Intensity/02.md",
+          "Order": 2
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Tech-Intensity-Identity-Access-Management-Threat-Protection/main/Instructions/Microsoft%20Threat%20Protection%20Tech%20Intensity/03.md",
+          "Order": 3
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Tech-Intensity-Identity-Access-Management-Threat-Protection/main/Instructions/Microsoft%20Threat%20Protection%20Tech%20Intensity/04.md",
+          "Order": 4
+        }
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Tech-Intensity-Identity-Access-Management-Threat-Protection/main/Instructions/Microsoft%20Threat%20Protection%20Tech%20Intensity/05.md",
+          "Order": 5
+        }
+      ]
+    }
+  ]
